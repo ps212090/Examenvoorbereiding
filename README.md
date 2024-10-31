@@ -18,3 +18,16 @@
 ![image1](https://github.com/user-attachments/assets/454eed62-fd13-47c4-b57e-7c16b0d88214)
 ![image2](https://github.com/user-attachments/assets/4b006bef-7781-42a4-a256-62334fd839a6)
 ![image](https://github.com/user-attachments/assets/f6e9a9b9-d44a-4dee-808c-18beb4af1009)
+als je na 8:30 binnenkomt wordt je examen afgekeurd, komt binnen uitleg, usb met info, groepen worden gemaakt, krijg te horen wat we moeten maken, alles alleen beoordeeld, eigen repo, zelf presenteren allemaal in eigen groep is waarschijnlijk tussentijdse oplevering waars + documenteren, opleveren klant gaat testen, code review docent kiest dag waars woensdag of donderdag, alles liefst via de mail documenteren, documentatie maken eigen planning alles op azure.
+
+startpagina
+usecases
+erd
+navigatiestructuur = borderline organigram
+design
+
+tussentijdse oplevering = alles laten zien
+
+testplan
+presenteren
+oplevering
