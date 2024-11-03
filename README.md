@@ -32,6 +32,7 @@ testplan
 presenteren
 oplevering
 
+```
 Resultaten
 Het examen is afgelopen als je al je resultaten hebt ingeleverd, of als de tijd verstreken is. Tijdens dit
 examen lever je de volgende producten en/of diensten op.
@@ -47,3 +48,4 @@ examen lever je de volgende producten en/of diensten op.
 • Een verbetervoorstel voor de applicatie*
 • Een presentatie en demonstratie
 • Een persoonlijk verbetervoorstel*
+```
