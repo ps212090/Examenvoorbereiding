@@ -31,3 +31,19 @@ tussentijdse oplevering = alles laten zien
 testplan
 presenteren
 oplevering
+
+Resultaten
+Het examen is afgelopen als je al je resultaten hebt ingeleverd, of als de tijd verstreken is. Tijdens dit
+examen lever je de volgende producten en/of diensten op.
+• Een definition of done*
+• De beschreven functionaliteiten/users stories*
+• Een planning/backlog*
+• Een individueel en een teamontwerp*
+• Een log met betrekking tot je voortgang, planning en resultaten*
+• Je dagreflectie*
+• Programmacode
+• Een testplan*
+• Een testrapport*
+• Een verbetervoorstel voor de applicatie*
+• Een presentatie en demonstratie
+• Een persoonlijk verbetervoorstel*
